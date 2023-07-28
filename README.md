@@ -11,13 +11,10 @@
 * 📫 How to reach me: https://www.kaggle.com/msandipan98
 
 * Expertise in machine learning, deep learning, and artificial intelligence.
-Proficiency in Python libraries such as NumPy, Pandas, Scikit-learn, Tensorflow, PyTorch, and OpenCV.
-Experience with business intelligence tools like Microsoft Power BI and Tableau.
-Strong background in generative AI, computer vision, natural language processing, and large language models.
-Hands-on experience with Azure data services, Databricks, and Git.
-Proficient in Python, SQL, Spark, MongoDB, and Linux basics.
-Practical knowledge in MS Excel, exploratory data analysis, data visualization, statistical analysis, and time series analysis.
-Experience with popular algorithms like linear regression, logistic regression, decision tree, random forest, XG Boost, Light GBM and more.
-Experience with dimensionality reduction techniques and clustering algorithms such as K Means and DBSCAN.
-Microsoft Certified professional in Azure Data Fundamentals, Azure AI Fundamentals, and Azure Fundamentals.
-Academy Accreditation programs in Databricks Lakehouse Fundamentals and Generative AI Fundamentals.
+* Proficiency in Python libraries such as NumPy, Pandas, Scikit-learn, Tensorflow, PyTorch, and OpenCV.
+* Experience with business intelligence tools like Microsoft Power BI and Tableau.
+* Strong background in generative AI, computer vision, natural language processing, and large language models.
+* Proficient in Python, SQL, Spark and Linux basics.
+* Practical knowledge in MS Excel, exploratory data analysis, data visualization, statistical analysis, and time series analysis.
+* Experience with popular algorithms like linear regression, logistic regression, decision tree, random forest, XG Boost, Light GBM and more.
+* Experience with dimensionality reduction techniques and clustering algorithms such as K Means and DBSCAN.
