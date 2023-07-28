@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**sandipan1998/sandipan1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working as a data science intern in Intellipaat.
+🌱 I’m currently pursuing PGP in Data Science and Machine Learning by MITx & Intellipaat.
+👯 I’m looking to collaborate on Data Science projects like Image Classification, text classification and usage of popular machine learning algorithms.
+🤔 I’m looking for projects with advanced topics of Data Science, like time series, computer vision, NLP for knowing more in this.
+📫 How to reach me: https://www.kaggle.com/msandipan98
+Expertise in machine learning, deep learning, and artificial intelligence.
+Proficiency in Python libraries such as NumPy, Pandas, Scikit-learn, Tensorflow, PyTorch, and OpenCV.
+Experience with business intelligence tools like Microsoft Power BI and Tableau.
+Strong background in generative AI, computer vision, natural language processing, and large language models.
+Hands-on experience with Azure data services, Databricks, and Git.
+Proficient in Python, SQL, Spark, MongoDB, and Linux basics.
+Practical knowledge in MS Excel, exploratory data analysis, data visualization, statistical analysis, and time series analysis.
+Experience with popular algorithms like linear regression, logistic regression, decision tree, random forest, XG Boost, Light GBM and more.
+Experience with dimensionality reduction techniques and clustering algorithms such as K Means and DBSCAN.
+Microsoft Certified professional in Azure Data Fundamentals, Azure AI Fundamentals, and Azure Fundamentals.
+Academy Accreditation programs in Databricks Lakehouse Fundamentals and Generative AI Fundamentals.
