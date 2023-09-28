@@ -39,5 +39,3 @@ Heroku/AWS/Azure for Cloud Data Science ☁️: I'm actively learning and levera
 * Developed end-to-end data science projects, starting from data acquisition and cleaning, to model development, and deploying them as web applications.
 * Created a sentiment analysis model for social media data, providing valuable insights for brand reputation management.
 * Implemented deep learning models for image recognition, achieving state-of-the-art accuracy in challenging competitions.
-* Collaborated with cross-functional teams to build predictive models for demand forecasting, resulting in significant cost savings for retail companies.
-* Actively contribute to the data science community by sharing my knowledge through blog posts and speaking at conferences and meetups.
