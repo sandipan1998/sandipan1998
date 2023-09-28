@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working as a data science intern in Intellipaat.
+* 🔭 I’m currently working as a data scientist.
 
 * 🌱 I’m currently pursuing PGP in Data Science and Machine Learning by MITx & Intellipaat.
 
