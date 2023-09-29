@@ -24,7 +24,7 @@
 
 * SQL and Database Management 📊: I have hands-on experience working with SQL databases, enabling me to efficiently store, query, and analyze structured data. I'm proficient in writing complex SQL queries and optimizing database performance to extract meaningful information.
 
-* Power BI 📈: I have mastered Power BI, a powerful business intelligence tool, to create visually appealing and interactive dashboards and reports. By transforming raw data into compelling visualizations, I help stakeholders make data-driven decisions and gain actionable insights.
+* Power BI 📈: I have mastered Power BI, a powerful business intelligence tool, to create visually appealing and interactive dashboards and reports. By transforming raw data into compelling visualizations, I can make data-driven decisions and gain actionable insights.
 
 * Docker 🐳: I have knowledge of containerization using Docker, allowing for seamless deployment and scalability of data science applications across different environments. By containerizing models and applications, I ensure consistency, reproducibility, and easy management.
 
